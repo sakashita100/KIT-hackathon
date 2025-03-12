@@ -12,6 +12,8 @@ import matplotlib.cm as cm
 from PIL import Image
 import io
 
+import io
+
 # ---- Configuration ----
 st.set_page_config(page_title="物流最適化システム", layout="wide")
 
